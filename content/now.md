@@ -1,6 +1,6 @@
 ---
 title: 'Now'
-date: 2024-12-03T06:42:11-06:00
+date: 2024-12-03
 menu:
   main:
     weight: 10
