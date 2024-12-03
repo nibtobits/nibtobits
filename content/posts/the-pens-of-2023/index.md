@@ -5,7 +5,7 @@ date: 2023-12-31T00:17:51-06:00
 
 I had the comforting notion that I had slowed down my fountain pen purchases this year and was building appreciation for those pens I already had. Then I consulted [the database][fpc] and discovered that I acquired 7 pens this year, which means that pens from this year constitute nearly 25% of my current collection. 
 
-![7 pens ](https://cdn.some.pics/nibtobits/6590b3e61b7f6.jpg)
+![7 pens ](6590b3e61b7f6.jpg)
 
 Here they are from left-to-right. 
 
