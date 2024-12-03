@@ -1,0 +1,33 @@
+---
+title: 'Things that made my 2023'
+date: 2024-01-14T22:22:52-06:00
+---
+
+- "Tomorrow, and Tomorrow, and Tomorrow" by [Gabrielle Zevin](https://gabriellezevin.com/tomorrowx3/)
+- Lockwood & Co, first the Netflix series followed immediately by the original books written by Jonathan Stroud
+- Cozy mysteries written by [Elly Griffiths](https://ellygriffiths.co.uk/my-books/the-ruth-galloway-novels/) 
+- Regular weekly dinners at El Pavo Real. Chips and veggie quesadilla please
+- [The Spoke Roady](https://spokedesign.com/collections/roady)
+- Long road trips to North Carolina. Cats as passengers
+- Antique shopping for the cabin
+- Traveling once again after the pandemic: Atlanta, Miami, Los Angeles
+- Cat land. Lincoln and Moomoo decided to adopt themselves into the outside family. Toulouse joined the backyard. Chester found a good home. Monty and Moira became reluctant roomates again
+- Music: The National / Fever Ray / Future Islands
+- Rewatching some old favorite TV shows: The Wire / Firefly
+- [Rancho Gordo](https://www.ranchogordo.com) beans
+- The Venetian Pool in Coral Gables, Miami
+- [Dobra Tea](https://www.dobrateanc.com) in Asheville
+- Working on legacy code circa 1999. Brief revisit of Perl which isn't nearly as painful as I expected
+- Dialing in the home office desk setup. Switching to a 34" ultra-wide Dell monitor
+- Purchasing 5 acres of land 
+- Portal fiction
+- Blade Runner 2049
+- The kids dressing up as Daft Punk for Halloween
+- Relay podcasts: Pen Addict, Connected, Cortex
+- Keeping a [5 year journal](https://www.1101.com/store/techo/en/5year/) and commonplace book
+- Making diagrams with [FigJam](https://www.figma.com/figjam/)
+- Casual nature photography and using iNaturalist to identify plants
+- Seeing an owl and a completely white squirrel
+- Watching Toi expertly operate a fork lift
+- Weird chat threads with old friends. Recurring topics: AI, bylaws, magnet fishing
+- Skipping Mardi Gras and being ok with that
