@@ -6,17 +6,21 @@ menu:
     weight: 10
 ---
 
-Waiting patiently for August, when several big projects at work are supposed to kick off. Hoping to put in a couple of weeks of deep, focused work before my quick trip to San Francisco for the SF Pen Show in late August. Anxious about hurricanes and the general state of the world. 
+Devastated about the results of the US election. Radically changing my news consumption patterns and trying to rebuild trust in humans again. Using this winter to hole up with good books and move forward on long dormant projects. This is part distraction, part preparation for a chaotic 2025. 
 
-Trying to relax by building up my writing skills. While I write daily in my journal, I want to start writing somewhere in public in order to force myself to take my writing all the way from rambling mess to a cohesive and edited form. Playing around with tools and processes to see what works. 
+Moving this personal site from omg.lol to a static site built by Hugo and hosted on Github Pages. While this setup is more complex, text files and git repos are more familiar to me. I am hoping that the change will encourage me to write in public more. 
+
+Finally jumped on the Obsidian bandwagon after a long stretch of time using homegrown tools for note taking.  
+
+Trying to figure out what I think about AI. Is it useful? It is ethical? I began from a place of skepticism, but am trying to be open minded.
 
 ## Reading
 
-- “Tools for Thought: The History and Future of Mind-Expanding Technology” Howard Rheingold
-- “Titanium Noir” Nick Harkaway
+- “The middle passage: from misery to meaning in midlife” James Hollis
+- “A System for Writing: How an Unconventional Approach to Note-Making Can Help You Capture Ideas, Think Wildly, and Write Constantly - A Zettelkasten Primer” Bob Dotto
 
 ## Writing With
 
-- Aurora Optima Blue Auroloide - Fine
-- Sailor Sky High
+- Pilot Custom Heritage 912 - Soft Medium
+- ColorVerse Redwood Forest
 - Midori MD A5
