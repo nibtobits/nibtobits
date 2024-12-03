@@ -10,20 +10,7 @@ pygmentsUseClasses = true
   dark = "auto"
   highlight = true
 
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
-    url = "/"
-    weight = 10
 
-  [[menu.main]]
-    identifier = "now"
-    name = "now"
-    title = "now"
-    url = "/now/"
-    weight = 20
 
 # Etch recommends removing the subdirectory for posts in URLs
 # https://github.com/LukasJoswiak/etch/wiki/Configuration#sample-configuration
