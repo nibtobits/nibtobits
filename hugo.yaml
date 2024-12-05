@@ -1,0 +1,22 @@
+baseURL: 'https://nibtobits.net/'
+languageCode: 'en-us'
+title: 'nibtobits'
+theme: 'etch'
+enableInlineShortcodes: true
+pygmentsCodeFences: true
+pygmentsUseClasses: true
+
+params:
+  dark: 'auto'
+  highlight: true
+
+# Etch recommends removing the subdirectory for posts in URLs
+# https://github.com/LukasJoswiak/etch/wiki/Configuration#sample-configuration
+permalinks:
+  posts: '/:title/'
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
